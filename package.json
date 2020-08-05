@@ -1,0 +1,19 @@
+{
+  "name": "cssparser",
+  "version": "1.0.0",
+  "description": "A small JavaScript CSS parser, made of questionable code.",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravuy/style.git"
+  },
+  "author": "K. Ravuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravuy/style/issues"
+  },
+  "homepage": "https://github.com/ravuy/style#readme"
+}
